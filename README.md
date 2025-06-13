@@ -44,7 +44,7 @@ This project targets the **Rec Room** game and includes numerous internal hooks 
 
 ## 🔨 Build Instructions
 
-1. Open the project in **Visual Studio 2019 or later**
+1. Open the project in **Visual Studio 2022**
 2. Set configuration to **Release | x64**
 3. Ensure **MinHook** is included and linked properly
 4. Compile and inject into Rec Room
@@ -56,7 +56,8 @@ This project targets the **Rec Room** game and includes numerous internal hooks 
 
 ## 📁 Screenshots & Media
 
-*(None yet — have only found the source LOL)*
+*(found 1 screenshot in the src  LOL)*
+![image](https://github.com/user-attachments/assets/a33e914a-d75a-4623-9db3-0e9cd99d9b99)
 
 ---
 
