@@ -35,6 +35,7 @@ This project targets the **Rec Room** game and includes numerous internal hooks 
 - Kill/dispose of enemies (MasterKill, MasterDispose)
 - Set enemy and boss health values automatically to 1 so 1hit
 - Modify AI health directly
+- Quest Skipper /Broken
 
 - Override Unity camera aspect ratio / Broken
 - Modify and freeze game time scale / Broken 
